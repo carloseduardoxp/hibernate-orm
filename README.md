@@ -4,6 +4,8 @@
 Hibernate ORM is a library providing Object/Relational Mapping (ORM) support
 to applications, libraries and frameworks.
 
+And you must work with another languages.
+
 It also provides an implementation of the JPA specification, which is the standard Java specification for ORM.
 
 This is the repository of its source code: see [Hibernate.org](http://hibernate.org/orm/) for additional information.
